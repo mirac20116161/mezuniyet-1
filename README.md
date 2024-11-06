@@ -1,1 +1,1 @@
-# mezuniyet-1
+bu dosya iklim ile ilgilidir
