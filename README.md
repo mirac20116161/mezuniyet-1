@@ -6,8 +6,8 @@ iklim değişikliği ile ilgili discord botu kodudur(3)
 
 iklim,iklim değişikliği ile bilgilendirme(!)
 
-iklim ile ilgi bir sorunuz varsa sorabilirisniz(1)  
-iklim,iklim değişikli hakında istediniz bilgiyi edine bilirsiniz(2)  
-
+iklim,iklim değişikliği ile ilgi bir sorunuz varsa sorabilirisiniz(1)  
+iklim,iklim değişikliği hakında istediniz bilgiyi edine bilirsiniz(2)  
+iklim değişillini en aza indirmek için sorular sorabilirsiniz(3)  
 
 bu progmamın amacı iklim değişikliğini durdurmak,en aza indirmek(amaç)
